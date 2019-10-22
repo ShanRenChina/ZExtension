@@ -1,0 +1,22 @@
+{
+  "name": "ZExtensionUI",
+  "version": "0.1.0",
+  "summary": "A short description of ZExtensionUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZhangWei/ZExtensionUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZhangWei": "zhangweijzsz@163.com"
+  },
+  "source": {
+    "git": "https://github.com/ZhangWei/ZExtensionUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZExtensionUI/Classes/**/*"
+}

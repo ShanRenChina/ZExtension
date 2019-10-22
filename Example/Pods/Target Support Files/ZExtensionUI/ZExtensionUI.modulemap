@@ -1,0 +1,6 @@
+framework module ZExtensionUI {
+  umbrella header "ZExtensionUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

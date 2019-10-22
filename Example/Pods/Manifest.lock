@@ -1,0 +1,16 @@
+PODS:
+  - ZExtensionUI (0.1.0)
+
+DEPENDENCIES:
+  - ZExtensionUI (from `../`)
+
+EXTERNAL SOURCES:
+  ZExtensionUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZExtensionUI: ba7ceb35510207459c1205e78638cb025b313d2f
+
+PODFILE CHECKSUM: 177f1af78ca6c03b52685ca1394e14c67a490d3a
+
+COCOAPODS: 1.8.4
